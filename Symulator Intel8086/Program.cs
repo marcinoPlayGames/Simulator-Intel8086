@@ -8,7 +8,7 @@ using System.Runtime.CompilerServices;
 using System.Threading.Tasks.Dataflow;
 using System.Xml;
 
-namespace Ex_03_01
+namespace Simulator
 {
     class Program
     {
